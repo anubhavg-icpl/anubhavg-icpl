@@ -3,7 +3,7 @@
 <p align="center">
    <samp><br>
    <br>
-   Trainee Software Engineer at <a href="https://www.infopercept.com">Infopercept Consulting</a><br>
+   Software Engineer at <a href="https://www.infopercept.com">Infopercept Consulting</a><br>
    Specializing in Cybersecurity Development<br>
    Skilled in Bash, Rust, Go & Yara
    <br>
