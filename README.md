@@ -19,6 +19,15 @@
    </samp>
 </p>
 
+
+<div align="center">
+  
+
+  <!-- GitHub Activity Graph -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavg-icpl&theme=react-dark&hide_border=true&area=true"/>
+
+</div>
+
 <p align="center">
    <samp>——— Securing Digital Infrastructure ———</samp>
 </p>
