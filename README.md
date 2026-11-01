@@ -24,8 +24,12 @@
 
   <img src="koi/koi.gif" width="256" alt="My koi, redrawn nightly from my GitHub activity" />
 
-  <!-- Streak stats (github-readme-activity-graph.vercel.app is offline: 402 DEPLOYMENT_DISABLED) -->
-  <img width="100%" src="https://streak-stats.demolab.com?user=anubhavg-icpl&theme=react&hide_border=true&disable_animations=true" alt="GitHub streak stats" />
+  <!-- Contribution snake, from Platane/snk via .github/workflows/snake.yml -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="snake/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="snake/snake.svg" />
+    <img width="100%" src="snake/snake-dark.svg" alt="Snake eating my contribution graph" />
+  </picture>
 
 </div>
 
