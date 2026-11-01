@@ -21,7 +21,8 @@
 
 
 <div align="center">
-  
+
+  <img src="koi/koi.gif" width="256" alt="My koi, redrawn nightly from my GitHub activity" />
 
   <!-- GitHub Activity Graph -->
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavg-icpl&theme=react-dark&hide_border=true&area=true"/>
